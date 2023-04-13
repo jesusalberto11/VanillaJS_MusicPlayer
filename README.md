@@ -60,15 +60,10 @@ Go to the project directory
 <!-- Deployment -->
 ### :triangular_flag_on_post: Deployment
 
-To deploy this project you will need the live server extension for visual studio code, if you have that, just launch the live server in the html file.
+To deploy this project you will need the live server extension for visual studio code, if you have that, create a folder named "songs" in the root of the proyect and put all of ur songs there, then just launch the live server in the html file.
 
 <!-- Contributing -->
 ## :wave: Contributing
-
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
-
 
 Contributions are always welcome!
 
