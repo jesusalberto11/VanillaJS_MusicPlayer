@@ -50,7 +50,10 @@ progressBarArea.addEventListener("click", (e) => {
   let progressWidthValue = progressBarArea.clientWidth;
   let clickedOffsetX = e.offsetX;
   let musicDuration = mainAudio.duration;
-  mainAudio.currentTime = (clickedOffsetX / progressWidthValue) * musicDuration;
+
+  if (progressWidthValue !== 0 && musicDuration !== 0) {
+    mainAudio.currentTime = (clickedOffsetX / progressWidthValue) * musicDuration;
+  }
 });
 
 playAndPauseButton.addEventListener("click", () => {
