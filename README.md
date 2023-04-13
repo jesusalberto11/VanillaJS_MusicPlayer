@@ -7,10 +7,12 @@
 
 This is project was my fist HTML, CSS y Javascript proyect, it was created using:
 
-<li><p>HTML</p></li>
-<li><p>CSS</p></li>
-<li><p>Javascript</p></li>
-<li><p>JSmediaTags</p></li>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>JSmediaTags</li>
+</ul>
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -20,7 +22,7 @@ This is project was my fist HTML, CSS y Javascript proyect, it was created using
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/jesusalberto11/VanillaJS_MusicPlayer/blob/main/img/js_musicplayer_2.png" alt="Api_Image_2" />
+  <img src="https://github.com/jesusalberto11/VanillaJS_MusicPlayer/blob/main/img/js_musicplayer_4.png" alt="Api_Image_2" />
 </div>
 
 <div align="center"> 
